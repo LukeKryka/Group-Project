@@ -1,7 +1,7 @@
 # Group-Project
 This code is for the mini-group project for **Lab 6** and **Lab 7**. The Python code repeatedly asks the user to type "YES" until the user types "YES".
 ## Authors
-
+The first two authors on this code are Luke Kryka and Erza Cheifetz. We are both Freshman at the University of Pittsburgh and made this code for our Big Ideas in Computer science class. 
 ## Installation
 Open a terminal in JupyterLab and type
 `git clone https://github.com/LukeKryka/Group-Project.git`
