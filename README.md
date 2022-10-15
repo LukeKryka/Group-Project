@@ -19,6 +19,6 @@ while cont:
 ## Contributing
 Hello! Thank you for taking a look at our code. We appreciate any and all comments and recommendations. If you want to make any edits to our code all you have to is fork LukeKryka/Group-Project in GitHub. You can then make any comments you want and edit our code however you like. Then for us to take a look at the code all you have to do is put a pull request in. 
 ## License
-
+We chose the MIT license because it is a very permissive license. We are able to easily distribute edit and modify our code using this license. It should be able for all users to get to and edit our code. The only downside is our code is not copyright or patent protected. Because our code is simple we are valuing the collaborative aspects of the MIT license and ignoring the downsides. 
 ## Code of Conduct
 We chose the standard Code of Conduct (**Contributor Covenant**) because we agree with the values listed and the behaviors deemed acceptable and unacceptable.
