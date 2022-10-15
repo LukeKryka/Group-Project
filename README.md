@@ -17,7 +17,7 @@ while cont:
    	#checks if the user types "YES" and ends the loop if so
 ```
 ## Contributing
-
+Hello! Thank you for taking a look at our code. We appreciate any and all comments and recommendations. If you want to make any edits to our code all you have to is fork LukeKryka/Group-Project in GitHub. You can then make any comments you want and edit our code however you like. Then for us to take a look at the code all you have to do is put a pull request in. 
 ## License
 
 ## Code of Conduct
